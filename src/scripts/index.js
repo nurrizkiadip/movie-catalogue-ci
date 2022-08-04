@@ -22,4 +22,4 @@ window.addEventListener('load', () => {
   WebSocketInitiator.init(CONFIG.WEB_SOCKET_SERVER);
 });
 
-console.log('Mantap! 123');
+console.log('Mantap! 123 456');
