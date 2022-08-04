@@ -22,4 +22,4 @@ window.addEventListener('load', () => {
   WebSocketInitiator.init(CONFIG.WEB_SOCKET_SERVER);
 });
 
-console.log('Coba protect branch');
+console.log('Mantap!');
